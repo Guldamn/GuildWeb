@@ -4,5 +4,5 @@
 
 ### Planned functionality
     
-    * Authentication
-    ** Provide authentication to the website through the battle.net oAuth API.
+- Authentication
+  - Provide authentication to the website through the battle.net oAuth API.
